@@ -9,36 +9,62 @@
     width: 82.8%!important;
   }
   
-  /* .m1-slide {
-    width:100% !important;
-  } */
+  .m1-slide {
+    max-width:100% !important;
+  }
 
 }
 @media screen and (max-width : 430px ) {
+  
+  .m1-slide {
+    max-width:96% !important;
+  }
+  .m2 , .m1 , .m3 {
+    padding: 1rem;
+  }
+  .logo-mobail {
+    width: 90%;
+  }
   .footer-mobail-content ul li{
     margin-right: 20% !important;
   }
   .footer-mobail-content h6{
     margin-right: 20% !important;
   }
+  .f-mobail{
+    width: 100% !important;
+  }
+  .f-mobail-padding{
+    padding-top: 1.5rem !important;
+  }
+   .xs , .aparat-icon2 , .linkedin-icon2 {
+    display: none !important;
+  }
   .icon-add-m{
     margin-right: 3% !important;
-
   }
   .w-div-40{
     width: 40% !important;
   }
   .p-2-5 {
     padding-right: 9% !important;
-
   }
   .f-bottom {
-
     padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-right: 10px !important;
+  }
+  .f-bottom {
+    width: 19% !important;
+  }
+  .f-bottom span{
+    font-size: 9px !important;
   }
 }
-@media screen and (max-width : 576px ) {
+@media screen and (max-width : 576px ) and (min-width : 431px ){
+  .m1-slide {
+    max-width:48% !important;
+    min-height: 400px;
+  }
   .col-6{
     width: 48% !important;
   }

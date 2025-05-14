@@ -339,7 +339,7 @@ function   displayProductItem(productItems){
   let displaySmartWatch = productItems.map(function(item){
     if(item.category == " هوشمند ساعت" ){
         // console.log(item.category)
-        return  ` <div class="m1-slide card col-lg-3 col-md-4 col-sm-6 col-6 pt-3  textnew1" data-id="${item.id}">
+        return  ` <div class="m1-slide card col-lg-3 col-md-4 col-sm-6 col-12 pt-3  textnew1" data-id="${item.id}">
         <div class="discount-box bg-danger text-white text-center"><span class="discount f-vazir-fanum fs-14">${item.discount}</span></div>  
         <img src="${item.img[0]}" class="product-img1 w-100 h-50 card-img-top" alt="محصول 1"> 
         <div class="product-img2 w-100 h-50 card-img-top rounded-4  text-center ">
@@ -364,7 +364,7 @@ function   displayProductItem(productItems){
   let displayAccessories = productItems.map(function(item){
     if(item.category == "لوازم جانبی" ){
         // console.log(item.category)
-        return  ` <div class="m1-slide card col-lg-3 col-md-4 col-sm-6 col-6 pt-3 textnew1">  
+        return  ` <div class="m1-slide card col-lg-3 col-md-4 col-sm-6 col-12 pt-3 textnew1">  
         <img src="${item.img[0]}" class="m2-product-img1 w-100 h-50 card-img-top rounded-4" alt="محصول 1">
         <div class="card-body pb-0">  
             <h6 class="card-title fs-13 h-25 fw-normal f-vazir-fanum"><a href="#" class=""> ${item.title}</a></h6> 
