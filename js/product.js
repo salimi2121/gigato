@@ -123,7 +123,7 @@ const product = [
         "price" : " ۱,۹۵۰,۰۰۰" , 
         "discount" : "50%" , 
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w8-1.png " , "/images/product/w8-2.png"] ,
+        "img" : ["/images/product/w8-1.jpg " , "/images/product/w8-2.png"] ,
         "coment" : ""
         
   
