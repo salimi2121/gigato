@@ -11,7 +11,7 @@ const product = [
         "price" : " ۱,۸۰۰,۰۰۰ " ,  
         "discount" : "67%" ,
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w1.png " ,"/images/product/w1-2.png" ],
+        "img" : ["/images/product/w1.png" ,"/images/product/w1-2.png" ],
         "coment" : ""
         
   
@@ -27,7 +27,7 @@ const product = [
         "price" : "۲,۳۰۰,۰۰۰" ,
         "discount" : "57%" ,  
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w2-1.jpg " , "/images/product/w2-2.png"] ,
+        "img" : ["/images/product/w2-1.jpg" , "/images/product/w2-2.png"] ,
         "coment" : ""
         
   
@@ -43,7 +43,7 @@ const product = [
         "price" : " ۲,۱۵۰,۰۰۰" ,
         "discount" : "60%" ,  
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w3-1.png " , "/images/product/w3-2.png"] ,
+        "img" : ["/images/product/w3-1.png" , "/images/product/w3-2.png"] ,
         "coment" : ""
         
   
@@ -59,7 +59,7 @@ const product = [
         "price" : " ۲,۱۰۰,۰۰۰" ,
         "discount" : "55%" ,  
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w4-1.jpg " , "/images/product/w4-2.jpg"] ,
+        "img" : ["/images/product/w4-1.jpg" , "/images/product/w4-2.jpg"] ,
         "coment" : ""
         
   
@@ -75,7 +75,7 @@ const product = [
         "price" : "۱,۷۲۰,۰۰۰ " , 
         "discount" : "62%" , 
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w5-1.jpg " , "/images/product/w5-2.jpg"] ,
+        "img" : ["/images/product/w5-1.jpg" , "/images/product/w5-2.jpg"] ,
         "coment" : ""
         
   
@@ -91,7 +91,7 @@ const product = [
         "price" : "۱,۷۰۰,۰۰۰ " ,
         "discount" : "61%" ,  
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w6-1.png " , "/images/product/w6-2.png"] ,
+        "img" : ["/images/product/w6-1.png" , "/images/product/w6-2.png"] ,
         "coment" : ""
         
   
@@ -107,7 +107,7 @@ const product = [
         "price" : " ۱,۹۵۰,۰۰۰" ,
         "discount" : "55%" ,  
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w7-1.jpg " , "/images/product/w7-2.jpg"] ,
+        "img" : ["/images/product/w7-1.jpg" , "/images/product/w7-2.jpg"] ,
         "coment" : ""
         
   
@@ -123,7 +123,7 @@ const product = [
         "price" : " ۱,۹۵۰,۰۰۰" , 
         "discount" : "50%" , 
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w8-1.jpg " , "/images/product/w8-2.png"] ,
+        "img" : ["/images/product/w8-1.jpg" , "/images/product/w8-2.png"] ,
         "coment" : ""
         
   
@@ -139,7 +139,7 @@ const product = [
         "price" : "۱,۸۰۰,۰۰۰" ,  
         "discount" : "61%" ,
         "time" : " 12:25 " ,
-        "img" : ["/images/product/w9-1.png " , "/images/product/w9-2.png"] ,
+        "img" : ["/images/product/w9-1.png" , "/images/product/w9-2.png"] ,
         "coment" : ""
         
   
@@ -155,7 +155,7 @@ const product = [
         "price" : " ۲۰۰,۰۰۰ " , 
         "discount" : "" , 
         "time" : " 12:25 " ,
-        "img" : ["/images/product/A10-1.jpg " , "/images/product/A10-1.jpg"] ,
+        "img" : ["/images/product/A10-1.jpg" , "/images/product/A10-1.jpg"] ,
         "coment" : ""
         
   
@@ -187,7 +187,7 @@ const product = [
         "price" : "۱۹۰,۰۰۰" , 
         "discount" : "" , 
         "time" : " 12:25 " ,
-        "img" : ["/images/product/shop_catalog.gif " , "/images/product/shop_catalog.gif " ] ,
+        "img" : ["/images/product/shop_catalog.gif" , "/images/product/shop_catalog.gif" ] ,
         "coment" : ""
         
   
